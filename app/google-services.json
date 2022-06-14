@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649056205712",
+    "project_id": "tay-app-7c130",
+    "storage_bucket": "tay-app-7c130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649056205712:android:06f2df889f08ded7e31115",
+        "android_client_info": {
+          "package_name": "com.pavlova.tayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649056205712-c64r3ss3rr63a9ng8vp71qulmhnns7cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV4syHD5tX64HfC8Qq9eys7Y5wNH_-wpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649056205712-c64r3ss3rr63a9ng8vp71qulmhnns7cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
